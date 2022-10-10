@@ -1,0 +1,5 @@
+git clone (https)
+git add . (dossier/fichier)
+git commit -m "message"
+git push -u origin main (-u pour le 1er push)
+
