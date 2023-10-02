@@ -3,4 +3,4 @@ cloner un repository: git clone "url de github"
 git add .
 git -m commit "message a ajouter"
 git push
-
+git pull ou git fetch
